@@ -1,4 +1,22 @@
 html {
   background-color: limegreen;
-  border-top: thick 
+  border: thick double red;
+  padding: 2% 0;
+}
+
+h1 {
+  color: red;
+  font-family: times;
+}
+
+.ctr {
+  text-align: center;
+}
+
+.lft {
+  text-align: left;
+}
+
+.rt {
+  text-align: right;
 }
